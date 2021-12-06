@@ -1,0 +1,11 @@
+C:\Users\MASTER\Documents\Juan Cibertec\5to Ciclo\Desarrollo de Servicios Web I\WS\APP_CL3\Servicios.Dominio\bin\Debug\Servicios.Dominio.dll
+C:\Users\MASTER\Documents\Juan Cibertec\5to Ciclo\Desarrollo de Servicios Web I\WS\APP_CL3\Servicios.Dominio\bin\Debug\Servicios.Dominio.pdb
+C:\Users\MASTER\Documents\Juan Cibertec\5to Ciclo\Desarrollo de Servicios Web I\WS\APP_CL3\Servicios.Dominio\obj\Debug\Servicios.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Documents\Juan Cibertec\5to Ciclo\Desarrollo de Servicios Web I\WS\APP_CL3\Servicios.Dominio\obj\Debug\Servicios.Dominio.dll
+C:\Users\MASTER\Documents\Juan Cibertec\5to Ciclo\Desarrollo de Servicios Web I\WS\APP_CL3\Servicios.Dominio\obj\Debug\Servicios.Dominio.pdb
+C:\Users\MASTER\Documents\Juan Cibertec\5to Ciclo\Desarrollo de Servicios Web I\CL3\APP_CL3_AAAA\Servicios.Dominio\bin\Debug\Servicios.Dominio.dll
+C:\Users\MASTER\Documents\Juan Cibertec\5to Ciclo\Desarrollo de Servicios Web I\CL3\APP_CL3_AAAA\Servicios.Dominio\bin\Debug\Servicios.Dominio.pdb
+C:\Users\MASTER\Documents\Juan Cibertec\5to Ciclo\Desarrollo de Servicios Web I\CL3\APP_CL3_AAAA\Servicios.Dominio\obj\Debug\Servicios.Dominio.csproj.AssemblyReference.cache
+C:\Users\MASTER\Documents\Juan Cibertec\5to Ciclo\Desarrollo de Servicios Web I\CL3\APP_CL3_AAAA\Servicios.Dominio\obj\Debug\Servicios.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Documents\Juan Cibertec\5to Ciclo\Desarrollo de Servicios Web I\CL3\APP_CL3_AAAA\Servicios.Dominio\obj\Debug\Servicios.Dominio.dll
+C:\Users\MASTER\Documents\Juan Cibertec\5to Ciclo\Desarrollo de Servicios Web I\CL3\APP_CL3_AAAA\Servicios.Dominio\obj\Debug\Servicios.Dominio.pdb

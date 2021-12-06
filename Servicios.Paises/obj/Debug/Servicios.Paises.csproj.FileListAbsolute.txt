@@ -1,0 +1,11 @@
+C:\Users\MASTER\Documents\Juan Cibertec\5to Ciclo\Desarrollo de Servicios Web I\CL3\APP_CL3_AAAA\Servicios.Paises\bin\Debug\Servicios.Paises.dll.config
+C:\Users\MASTER\Documents\Juan Cibertec\5to Ciclo\Desarrollo de Servicios Web I\CL3\APP_CL3_AAAA\Servicios.Paises\bin\Debug\Servicios.Paises.dll
+C:\Users\MASTER\Documents\Juan Cibertec\5to Ciclo\Desarrollo de Servicios Web I\CL3\APP_CL3_AAAA\Servicios.Paises\bin\Debug\Servicios.Paises.pdb
+C:\Users\MASTER\Documents\Juan Cibertec\5to Ciclo\Desarrollo de Servicios Web I\CL3\APP_CL3_AAAA\Servicios.Paises\bin\Debug\EntityFramework.dll
+C:\Users\MASTER\Documents\Juan Cibertec\5to Ciclo\Desarrollo de Servicios Web I\CL3\APP_CL3_AAAA\Servicios.Paises\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MASTER\Documents\Juan Cibertec\5to Ciclo\Desarrollo de Servicios Web I\CL3\APP_CL3_AAAA\Servicios.Paises\bin\Debug\EntityFramework.xml
+C:\Users\MASTER\Documents\Juan Cibertec\5to Ciclo\Desarrollo de Servicios Web I\CL3\APP_CL3_AAAA\Servicios.Paises\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MASTER\Documents\Juan Cibertec\5to Ciclo\Desarrollo de Servicios Web I\CL3\APP_CL3_AAAA\Servicios.Paises\obj\Debug\Servicios.Paises.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Documents\Juan Cibertec\5to Ciclo\Desarrollo de Servicios Web I\CL3\APP_CL3_AAAA\Servicios.Paises\obj\Debug\Servicios.Paises.csproj.CopyComplete
+C:\Users\MASTER\Documents\Juan Cibertec\5to Ciclo\Desarrollo de Servicios Web I\CL3\APP_CL3_AAAA\Servicios.Paises\obj\Debug\Servicios.Paises.dll
+C:\Users\MASTER\Documents\Juan Cibertec\5to Ciclo\Desarrollo de Servicios Web I\CL3\APP_CL3_AAAA\Servicios.Paises\obj\Debug\Servicios.Paises.pdb
